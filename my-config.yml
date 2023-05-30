@@ -1,0 +1,11 @@
+logger:
+    level: "DEBUG"
+    
+
+console:
+    port: 7351
+    username: "Sunny3311"
+    password: "Sunny3311"
+ 
+runtime:
+  js_entrypoint: "build/index.js" 

@@ -1,0 +1,26 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "nakama-runtime": "github:heroiclabs/nakama-common"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnappierSoap318/Nakam-Servers-side.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SnappierSoap318/Nakam-Servers-side/issues"
+  },
+  "homepage": "https://github.com/SnappierSoap318/Nakam-Servers-side#readme",
+  "description": ""
+}
